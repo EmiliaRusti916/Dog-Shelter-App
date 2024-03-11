@@ -1,0 +1,7 @@
+Bulldog,Rex,3,https://www.pexels.com/photo/white-short-coated-dog-160846/
+German Shephard,Max,2,https://www.pexels.com/photo/brown-german-shepherd-2695827/
+Poodle,Daisy,3,https://www.pexels.com/photo/photo-of-a-white-furry-poodle-on-a-yellow-surface-7516820/
+Poodle,Luna,1,https://www.pexels.com/photo/a-poodle-on-fallen-leaves-9833869/
+German Shephard,Bailey,5,https://www.pexels.com/photo/adult-german-shepherd-lying-on-ground-333083/
+German Shephard,Bailey,5,https://www.pexels.com/photo/adult-german-shepherd-lying-on-ground-333083/
+Bulldog,Bill,2,www.hptrg
